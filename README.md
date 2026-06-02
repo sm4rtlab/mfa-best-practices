@@ -1,19 +1,20 @@
 # MFA Best Practices
 
-Best practices for implementing MFA/2FA and phishing-resistant authentication in modern business environments.
+Practical recommendations for implementing Multi-Factor Authentication (MFA), 2FA and FIDO2-based authentication.
 
-## Topics Covered
-- Why passwords are no longer enough
-- FIDO authentication
-- MFA for email systems
-- GitLab 2FA recommendations
+## Topics
+
+- MFA deployment strategies
+- FIDO2 authentication
+- Passwordless login
+- Identity and access management
 - Phishing-resistant authentication
-- Secure access management
+- Security awareness
 
-## Recommended Security Practices
-- Use hardware-based authentication where possible
-- Avoid SMS-only authentication
-- Protect administrator accounts with MFA
-- Train employees against phishing attacks
+## Goal
 
-🌐 https://sm4rt-lab.tech
+Help organizations improve account security and reduce the risks associated with password-based authentication.
+
+## Related resources
+
+https://sm4rt-lab.tech
