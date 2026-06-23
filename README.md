@@ -18,3 +18,7 @@ Help organizations improve account security and reduce the risks associated with
 ## Related resources
 
 https://sm4rt-lab.tech
+
+## License
+
+This content is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
